@@ -67,7 +67,7 @@
                 </tr>
                 <tr>
                     <td>Observaciones</td>
-                    <td><?php echo $fila->CitaObservaciones; ?></td>
+                    <td><?php echo $fila->CitObservaciones; ?></td>
                 </tr>
             </table>
         </div>

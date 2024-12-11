@@ -14,7 +14,7 @@ body {
 #encabezado {
     width: 900px;
     height: 150px;
-    background: url('../Imagenes/banner1.jpg') no-repeat;
+    background: url('../Img/banner.jpg') no-repeat;
     border: #d3d3d3 1px solid;
 }
 
